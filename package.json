@@ -1,0 +1,17 @@
+{
+  "name": "giveawaynow",
+  "version": "1.0.0",
+  "description": "A bot for hosting giveaways!",
+  "main": "index.js",
+  "scripts": {
+    "test": "n!"
+  },
+  "author": "Bryanohh",
+  "license": "MIT",
+  "dependencies": {
+    "discord-giveaways": "^6.0.1",
+    "discord.js": "^14.7.0",
+    "fs": "^0.0.1-security",
+    "parsec": "^2.0.2"
+  }
+}
