@@ -2,7 +2,7 @@
 
 Hold giveaways quickly! GiveawayNow is a Simple discord Giveaway Bot developed for Discord servers!
 
-Check for more Infos: https://github.com/Bryanohh/Giveawaynow
+Check for more Infos: https://github.com/BynInc/Giveawaynow
 
 # Self-Hosting
 
